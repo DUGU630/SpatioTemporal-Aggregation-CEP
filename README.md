@@ -1,6 +1,4 @@
-![License](https://img.shields.io/badge/license-MIT-blue.svg) 
-
-📚 [MIT Theses Archive (DSpace@MIT)](https://dspace.mit.edu/handle/1721.1/7582)
+[![Read my thesis](https://img.shields.io/badge/Read%20my%20Thesis-View-blue)](https://hdl.handle.net/1721.1/164596) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # GridCluster: Task-Aware Spatial and Temporal Aggregation for Capacity Expansion Planning
 
