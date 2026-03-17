@@ -2,13 +2,13 @@
 
 # GridCluster: Task-Aware Spatial and Temporal Aggregation for Capacity Expansion Planning
 
-📍 By [Gabriel Duguey](mailto:gduguey@mit.edu)  
+By [Gabriel Duguey](mailto:gduguey@mit.edu)  
 Master of Engineering in Data Science for Engineering Systems  
 Massachusetts Institute of Technology, 2025
 
 ---
 
-This repository contains the code and data for my MIT M.Eng thesis on **designing spatial and temporal aggregation that preserves planning-relevant patterns in power-system Capacity Expansion Planning (CEP)**. The work proposes a composite, feature-based similarity metric for spatial clustering (k-medoids) and representative-day temporal reduction, then evaluates investment plans after re-projecting them to full resolution. New England is used as the case study. This code accompanies the thesis, *Task-Aware Spatial and Temporal Aggregation for Capacity Expansion Planning* (MIT CEE, 2025).&#x20;
+This repository contains the code and data for my MIT M.Eng thesis on **designing spatial and temporal aggregation that preserves planning-relevant patterns in power-system Capacity Expansion Planning (CEP)**. The work proposes a composite, feature-based similarity metric for spatial clustering (k-medoids) and representative-day temporal reduction, then evaluates investment plans after re-projecting them to full resolution. New England is used as the case study. This code accompanies the thesis, [*Task-Aware Spatial and Temporal Aggregation for Capacity Expansion Planning* (MIT CEE, 2025)](https://dspace.mit.edu/handle/1721.1/164596).&#x20;
 
 ## 1) Project overview
 
